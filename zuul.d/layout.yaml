@@ -90,3 +90,6 @@
         - tripleo-ci-centos-7-scenario009-multinode-oooq:
             files:
               - config/general_config/featureset033.yml
+        - tripleo-ci-centos-7-scenario011-multinode-oooq-container:
+            files:
+              - config/general_config/featureset044.yml
